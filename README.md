@@ -28,3 +28,15 @@ This bot is controlled manually by a controller. For simplicity, a controller ap
 ## Future Improvements
 - Improved defensive capabilities
 - Improved speed and movement control
+
+## Source Code
+The Arduino source code is available here:
+-['SoccerBot.ino'](Soccer_Bot_BT_Control.ino)
+
+
+## Robot Images
+![Back View](SoccerBot.JPG)
+![Side View](SoccerBot1.jpg)
+
+## Circuit Diagram
+![Circuit Diagram](Circuit_diagram.jpg)
