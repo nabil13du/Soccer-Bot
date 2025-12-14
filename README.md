@@ -35,8 +35,8 @@ The Arduino source code is available here:
 
 
 ## Robot Images
-![Back View](SoccerBot.JPG)
-![Side View](SoccerBot1.jpg)
+![Back View](Image/SoccerBot.JPG)
+![Side View](Image/SoccerBot1.jpg)
 
 ## Circuit Diagram
-![Circuit Diagram](Circuit_diagram.jpg)
+![Circuit Diagram](Circuit/Circuit_diagram.jpg)
